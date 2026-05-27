@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**snehapatil-dev/snehapatil-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python & Django Backend Developer
 
-Here are some ideas to get you started:
+I am a backend developer focused on building scalable web applications and REST APIs using Python and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- SQL
+- Git & GitHub
+- HTML/CSS
+
+---
+
+## Currently Learning
+
+- System Design
+- AWS Basics
+- Redis
+- Celery
+
+---
+
+## Goals for 2026
+
+- Become strong backend engineer
+- Build production-level backend projects
+- Improve problem solving skills
+- Switch to a product-based company
+
+---
+
+## Connect With Me
+
+- LinkedIn: 
+- Email: snehapatil200015@gmail.com
